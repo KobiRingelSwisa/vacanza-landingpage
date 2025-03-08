@@ -15,7 +15,7 @@ function LandingPage() {
         <img
           src={logo}
           alt="Vacanza Logo"
-          className="w-40 mx-auto mb-6 drop-shadow-lg"
+          className="w-40 mx-auto mb-6 drop-shadow-lg bg-white rounded-full border-yellow-400"
         />
         <h1 className="text-5xl font-extrabold tracking-wide text-yellow-400 italic">
           Escape. Explore. Experience
