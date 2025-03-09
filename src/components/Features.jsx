@@ -4,7 +4,7 @@ function Features() {
       <h2 className="text-3xl font-bold text-yellow-400">
         Why Choose Vacanza ?
       </h2>
-      <div className="">
+      <div className="flex gap-3 ">
         {[
           {
             title: "AI-Powered Planner",
